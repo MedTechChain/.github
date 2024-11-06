@@ -64,17 +64,17 @@ MedTech Chain's interface is designed for ease of use and security. Developed wi
 
 ## Repository Overview
 
-1. **backend**: Implements the User Management Server, facilitating the creation, retrieval, updating, and deletion of researcher profiles. Authenticated researchers can perform queries on the Hyperledger Fabric Blockchain through this service. :contentReference[oaicite:0]{index=0}
+1. **backend**: Implements the User Management Server, facilitating the creation, retrieval, updating, and deletion of researcher profiles. Authenticated researchers can perform queries on the Hyperledger Fabric Blockchain through this service.
 
-2. **frontend**: Develops the user interface for the MedTech Chain platform, providing functionalities for authentication, user management, and device data analysis. The interface uses Next.js and React. :contentReference[oaicite:1]{index=1}
+2. **frontend**: Develops the user interface for the MedTech Chain platform, providing functionalities for authentication, user management, and device data analysis. The interface uses Next.js and React.
 
-3. **tools**: Contains scripts and configurations for setting up and managing the blockchain infrastructure, including deployment scripts for the Hyperledger Fabric network and chaincode. It also provides utilities for handling dependencies and environment configurations. :contentReference[oaicite:2]{index=2}
+3. **tools**: Contains scripts and configurations for setting up and managing the blockchain infrastructure, including deployment scripts for the Hyperledger Fabric network and chaincode. It also provides utilities for handling dependencies and environment configurations.
 
-4. **hospital**: Represents the hospital server component, responsible for integrating hospital systems with the MedTech Chain network. It manages the secure transmission of medical device data to the blockchain and ensures compliance with privacy protocols. :contentReference[oaicite:3]{index=3}
+4. **hospital**: Represents the hospital server component, responsible for integrating hospital systems with the MedTech Chain network. It manages the secure transmission of medical device data to the blockchain and ensures compliance with privacy protocols.
 
-5. **chaincode**: Contains the smart contracts that define the business logic for data interactions on the blockchain. This includes implementations of privacy-preserving queries and enforcement of access controls. :contentReference[oaicite:4]{index=4}
+5. **chaincode**: Contains the smart contracts that define the business logic for data interactions on the blockchain. This includes implementations of privacy-preserving queries and enforcement of access controls.
 
-6. **protos**: Holds the Protocol Buffer (Protobuf) definitions used across the platform for structured data and service interface definitions. It includes a Makefile to simplify common development tasks such as compiling Protobuf files and generating language-specific bindings. :contentReference[oaicite:5]{index=5}
+6. **protos**: Holds the Protocol Buffer (Protobuf) definitions used across the platform for structured data and service interface definitions. It includes a Makefile to simplify common development tasks such as compiling Protobuf files and generating language-specific bindings.
 
 7. **ttp**: Implements the Trusted Third Party (TTP) component (mock), which plays a role in the platform's key management and encryption schemes (especially for homomorphic encryption). It ensures that cryptographic operations are handled securely and interacts with the blockchain to ensure query filtering and homomorphically aggregated result decryption.
 
