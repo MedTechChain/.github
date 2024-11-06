@@ -94,7 +94,7 @@ MedTech Chain has been showcased at major conferences and awarded for its innova
 
 ## Contribute to MedTech Chain
 
-We welcome contributions from the community! Explore our repositories [GitHub organization](https://github.com/MedTechChain).
+We welcome contributions from the community! Explore our repositories [GitHub organization](https://github.com/orgs/MedTechChain/repositories).
 
 ---
 
