@@ -30,7 +30,7 @@ MedTech Chain offers customizable queries that are privacy-preserving by design:
 ## System Architecture
 
 ![MedTech Chain Architecture](./architecture.png)
-*Figure 1: MedTech Chain architecture showing the data flow between hospitals, blockchain nodes, and the MedTech Chain organization.*
+*Figure 1: MedTech Chain architecture showing the data flow between hospitals, blockchain nodes, and the MedTech Chain organization. (Note: Database here was used only for user management.)*
 
 In this architecture:
 - **Hospitals** provide device data to the blockchain.
@@ -42,7 +42,7 @@ Each transaction follows a secure, multi-step process through endorsers and orde
 
 ## User Interface
 
-MedTech Chain's interface is designed for ease of use and security. Developed with Java Spring Boot (backend) and React (frontend), it provides distinct views for researchers and administrators.
+MedTech Chain's interface is designed for ease of use and security. Developed with React and Spring Boot for the backend, it provides distinct views for researchers and administrators.
 
 ![MedTech Chain User Interface](./interface.png)
 *Figure 2: User-friendly interface for querying and visualizing device data securely.*
