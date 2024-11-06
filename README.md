@@ -86,7 +86,7 @@ MedTech Chain's interface is designed for ease of use and security. Developed wi
 
 MedTech Chain has been showcased at major conferences and awarded for its innovation in privacy-preserving medical data management:
 
-- **Best Demo Award** at [BRAINS 2024](https://zenodo.org/records/13384910)
+- **Best Demo Award** at [BRAINS 2024](https://brains.dnac.org/2024/)
 - Presentations at **Dutch Blockchain Coalition (DBC 2024)** and **IEEE WIFS 2024**
 - Supported by the European Union’s **Horizon Europe** research and innovation programme under grant agreement No. 101094901 ([SEPTON](https://septon-project.eu/))
 
