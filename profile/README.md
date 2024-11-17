@@ -6,7 +6,7 @@
 
 ## Project Overview
 
-MedTech Chain addresses the cybersecurity and privacy challenges in managing networked medical devices. Using blockchain for secure, immutable data storage and advanced privacy techniques, it allows for controlled data analysis that supports medical research and hospital management without exposing sensitive information.
+MedTech Chain addresses the cybersecurity and privacy challenges in managing networked medical devices. Using blockchain for secure, immutable data storage and advanced privacy techniques, the platform allows for controlled data analysis that supports medical research and hospital management without exposing sensitive information.
 
 ---
 
@@ -14,7 +14,7 @@ MedTech Chain addresses the cybersecurity and privacy challenges in managing net
 
 ### Blockchain and Privacy Framework
 
-- **Permissioned Blockchain**: Hyperledger Fabric enforces access control, ensuring only authenticated participants (e.g., hospitals, researchers) can interact with the data.
+- **Permissioned Blockchain**: Hyperledger Fabric enforces access control, ensuring only authenticated participants (e.g., hospitals and researchers) can interact with the data.
 - **Differential Privacy (ε-Differential Privacy)**: Smart contracts introduce controlled noise to queries, preventing the extraction and inference of sensitive details.
 - **Homomorphic Encryption**: Enables computations on encrypted data within smart contracts, adding an extra layer of privacy by ensuring raw data is never exposed, not even to network participants.
 
