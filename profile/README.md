@@ -1,6 +1,6 @@
 # MedTech Chain
 
-[**MedTech Chain**](https://zenodo.org/records/13384910) is a decentralized, privacy-preserving platform for the secure analysis of medical device data. Built on Hyperledger Fabric, enhanced with ε-differential privacy and homomorphic encryption, it enables hospitals and researchers to analyze data without compromising privacy or security.
+[**MedTech Chain**](https://ieeexplore.ieee.org/document/10732045) is a decentralized, privacy-preserving platform for the secure analysis of medical device data. Built on Hyperledger Fabric, enhanced with ε-differential privacy and homomorphic encryption, it enables hospitals and researchers to analyze data without compromising privacy or security.
 
 ---
 
